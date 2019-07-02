@@ -1,0 +1,119 @@
+Test machine 1: CPU info:
+model name	: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
+cpu MHz		: 800.048
+cache size	: 8192 KB
+cpu cores	: 4
+
+sigma = 10.5
+
+Sequential kernel size 3:
+Run Time 1: 2.25707 seconds
+Run Time 2: 2.25060 seconds
+Run Time 3: 2.25123 seconds
+Run Time 4: 2.25564 seconds
+Run Time 5: 2.25416 seconds
+
+Parallel kernel size 3:
+Run Time 1: 0.507045 seconds
+Run Time 2: 0.654101 seconds
+Run Time 3: 0.580425 seconds
+Run Time 4: 0.575567 seconds
+Run Time 5: 0.537141 seconds
+
+Sequential kernel size 5:
+Run Time 1: 6.37778 seconds
+Run Time 2: 6.38659 seconds
+Run Time 3: 6.36083 seconds
+Run Time 4: 6.37732 seconds
+Run Time 5: 6.38087 seconds
+
+Parallel kernel size 5:
+Run Time 1: 1.33554 seconds
+Run Time 2: 1.3747 seconds
+Run Time 3: 1.64326 seconds
+Run Time 4: 1.4743 seconds
+Run Time 5: 1.45372 seconds
+
+Sequential kernel size 7:
+Run Time 1: 12.5444 seconds
+Run Time 2: 12.5441 seconds
+Run Time 3: 12.5400 seconds
+Run Time 4: 
+Run Time 5: 
+
+Parallel kernel size 7:
+Run Time 1: 2.54577 seconds
+Run Time 2: 2.7762 seconds
+Run Time 3: 2.67004 seconds
+Run Time 4: 2.58448 seconds
+Run Time 5: 2.65598 seconds
+
+Sequential kernel size 9:
+Run Time 1: 20.7138 seconds
+Run Time 2: 20.7235 seconds
+Run Time 3: 20.7420 seconds
+Run Time 4: 
+Run Time 5: 
+
+Parallel kernel size 9:
+Run Time 1: 4.2828 seconds
+Run Time 2: 4.32407 seconds
+Run Time 3: 4.02820 seconds
+Run Time 4: 4.30522 seconds
+Run Time 5: 4.34257 seconds
+
+Sequential kernel size 11:
+Run Time 1: 30.9447 seconds
+Run Time 2: 30.9076 seconds
+Run Time 3: 30.9166 seconds
+Run Time 4: 
+Run Time 5: 
+
+Parallel kernel size 11:
+Run Time 1: 6.30780 seconds
+Run Time 2: 6.44240 seconds
+Run Time 3: 6.52037 seconds
+Run Time 4: 6.46924 seconds
+Run Time 5: 6.48858 seconds
+
+Sequential kernel size 13:
+Run Time 1: 43.2498 seconds
+Run Time 2: 43.1502 seconds
+Run Time 3: 43.1335 seconds
+Run Time 4: 
+Run Time 5: 
+
+Parallel kernel size 13:
+Run Time 1: 8.70824 seconds
+Run Time 2: 8.88414 seconds
+Run Time 3: 9.67628 seconds
+Run Time 4: 8.79076 seconds
+Run Time 5: 8.91666 seconds
+
+Sequential kernel size 15:
+Run Time 1: 57.6266 seconds
+Run Time 2: 57.5103 seconds
+Run Time 3: 57.5161 seconds
+Run Time 4: 
+Run Time 5: 
+
+Parallel kernel size 15:
+Run Time 1: 11.1223 seconds
+Run Time 2: 11.4033 seconds
+Run Time 3: 11.1482 seconds
+Run Time 4: 11.5039 seconds
+Run Time 5: 11.4537 seconds
+
+Sequential kernel size 33:
+Run Time 1: 277.285 seconds
+Run Time 2: 277.096 seconds
+Run Time 3: 277.022 seconds
+Run Time 4: 
+Run Time 5: 
+
+Parallel kernel size 33:
+Run Time 1: 62.452 seconds
+Run Time 2: 59.1255 seconds
+Run Time 3: 62.1738 seconds
+Run Time 4: 57.0014 seconds
+Run Time 5: 59.3149 seconds

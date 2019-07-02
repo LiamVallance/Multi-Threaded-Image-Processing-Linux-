@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/u14014610/Year3/Parallel-and-Concurrent-Programming/Coursework/RGB_Processing/main.cpp
+iostream
+-
+vector
+-
+tbb/task_scheduler_init.h
+-
+tbb/parallel_for.h
+-
+tbb/parallel_reduce.h
+-
+tbb/blocked_range.h
+-
+tbb/blocked_range2d.h
+-
+math.h
+-
+tbb/tick_count.h
+-
+FreeImagePlus.h
+-
+
